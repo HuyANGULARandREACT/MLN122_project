@@ -6,7 +6,7 @@ const achievements = [
     icon: "public",
     title: "Quy mô Hội nhập",
     description:
-      "Thiết lập quan hệ ngoại giao với 187 quốc gia, tham gia hơn 500 hiệp định song phương và đa phương.",
+      "Ký kết hơn 90 Hiệp định thương mại song phương, gần 60 Hiệp định khuyến khích và bảo hộ đầu tư, và 54 Hiệp định chống đánh thuế hai lần.",
   },
   {
     icon: "workspace_premium",

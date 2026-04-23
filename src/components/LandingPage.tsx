@@ -19,7 +19,7 @@ const LandingPage: React.FC = () => {
       <Header />
       <main>
         <HeroSection />
-        <MetricsSection />
+        {/* <MetricsSection /> */}
         <StrategicRoadmap />
         <AchievementsSection />
         <ChallengesSection />
