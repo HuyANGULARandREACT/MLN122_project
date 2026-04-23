@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import HeroSection from "./HeroSection";
-import MetricsSection from "./MetricsSection";
+// import MetricsSection from "./MetricsSection";
 import StrategicRoadmap from "./StrategicRoadmap";
 import AchievementsSection from "./AchievementsSection";
 import ChallengesSection from "./ChallengesSection";
